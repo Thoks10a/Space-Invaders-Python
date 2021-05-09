@@ -7,3 +7,5 @@ Bibliotecas utilizadas:
   import os
   import time
   import random
+
+Contribuidor: Thoks10a e xVinny
