@@ -8,4 +8,4 @@ Bibliotecas utilizadas:
   import time
   import random
 
-Contribuidor: Thoks10a e xVinnyy
+Contribuidor: Thoks10a e xVinny
