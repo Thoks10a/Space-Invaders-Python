@@ -1,4 +1,4 @@
-#IMPORTS a
+#IMPORTS
 import pygame
 import os
 import time
